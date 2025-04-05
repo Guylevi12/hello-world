@@ -1,5 +1,2 @@
-def main():
-    print("Hello, World!")
-
-if __name__ == "__main__":
-    main()
+import numpy as np
+print(np.array([1, 2, 3]))
